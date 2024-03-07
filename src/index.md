@@ -2,10 +2,10 @@
 page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Scientific Computing, Machine Learning, Deep Learning, Computer Vision
 ---
 
-## Matthew Teow 
+## Matthew Teow
+![Profile](MT.jpg){align=left width=180px}
 
-<!-- ![Profile](MT.jpg){ align=left width=200px } -->
-
+<!-- ![Profile](MT.jpg){align=left width=180px} -->
 <details>
 <summary>Bio</summary>
 <p>
