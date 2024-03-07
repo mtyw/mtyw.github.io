@@ -4,7 +4,8 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 
 ## Matthew Teow 
 
-![Profile](MT.jpg){ align=left width=200px } 
+<!-- ![Profile](MT.jpg){ align=left width=200px } -->
+
 <details>
 <summary>Bio</summary>
 <p>
