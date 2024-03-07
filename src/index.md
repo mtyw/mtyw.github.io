@@ -10,6 +10,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 
 
 ## Publications
+<span style="font-size: 18pt;">Matthew Teow</span><br>
 
 <details>
 <summary>Artificial Intelligence</summary>
