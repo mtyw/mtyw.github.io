@@ -7,6 +7,12 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
       <td>
          <img src="MT.jpg" alt="Matthew Teow" width="160" height="160">
       </td>
+      <td width=25>
+      </td>
+      <td width=300 style="vertical-align:top">
+         <span style="font-size: 18pt;">Matthew Teow</span><br>
+         <span style="font-size: 10pt;">&nbsp;BSc MEng PhD, CEng MIET, PEng MIEM, SMIEEE</span>
+      </td>
    </tr>
 </table>
 
