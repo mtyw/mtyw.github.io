@@ -10,9 +10,9 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
       <td width=15 style="vertical-align:top;border:0;border-spacing:0;padding:0;">
       </td>
       <td width=auto style="vertical-align:top;border:0;border-spacing:0;padding:0">
-         <span style="font-size: 18pt;">Matthew Teow</span><br>
-         <span style="font-size: 10pt;">BSc MEng PhD, CEng MIET, PEng MIEM, SMIEEE</span><br>
-         <span style="font-size: 12pt;">I am a lecturer at University Partnership (Coventry University), PSB Academy, Singapore. I have extensive expertise in artificial intelligence and scientific computing. My recent research contributes to the scientific foundations of deep learning, specifically in representation theory, generative learning, and visual inference.</span>
+         <span style="font-size:18pt;">Matthew Teow</span><br>
+         <span style="font-size:10pt;">BSc MEng PhD, CEng MIET, PEng MIEM, SMIEEE</span><br>
+         <span style="font-size:12pt;">I am a lecturer at University Partnership (Coventry University), PSB Academy, Singapore. I have extensive expertise in artificial intelligence and scientific computing. My recent research contributes to the scientific foundations of deep learning, specifically in representation theory, generative learning, and visual inference.</span>
       </td>
    </tr>
 </table>
@@ -27,7 +27,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 
 <span style="font-size: 18pt;">Publications</span><br>
 
-<details>
+<details background-color:grey>
 <summary>Artificial Intelligence</summary>
 <p>
    <b>Performance Assessment Of U-Net For Semantic Segmentation Of Liquid Spray Images With Gaussian Blurring.</b><br>
