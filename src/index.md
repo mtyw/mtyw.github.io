@@ -3,7 +3,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 ---
 
 <table>
-   <tr>
+   <tr style="border-collapse: collapse; border: none;">
       <td>
          <img src="MT.jpg" alt="Matthew Teow" width="160" height="160">
       </td>
