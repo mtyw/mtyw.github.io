@@ -27,7 +27,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 
 <span style="font-size: 18pt;">Publications</span><br>
 
-<details background-color:grey>
+<details>
 <summary>Artificial Intelligence</summary>
 <p>
    <b>Performance Assessment Of U-Net For Semantic Segmentation Of Liquid Spray Images With Gaussian Blurring.</b><br>
