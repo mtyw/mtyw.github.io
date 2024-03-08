@@ -2,21 +2,16 @@
 page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Scientific Computing, Machine Learning, Deep Learning, Computer Vision
 ---
 
-<style>
-   table, tr {border:hidden;}
-   td, th {border:hidden;}
-</style>
-
-<table>
-   <tr>
-      <td>
+<table style="border:hidden">
+   <tr style="border:hidden">
+      <td style="border:hidden">
          <img src="MT.jpg" alt="Matthew Teow" width="160" height="160">
       </td>
       <td width=1>
       </td>
       <td width=700 style="vertical-align:top">
          <span style="font-size: 18pt;">Matthew Teow</span><br>
-         <span style="font-size: 10pt;">&nbsp;BSc MEng PhD, CEng MIET, PEng MIEM, SMIEEE</span><br>
+         <span style="font-size: 10pt;">BSc MEng PhD, CEng MIET, PEng MIEM, SMIEEE</span><br>
          <span style="font-size: 12pt;">I am a lecturer at University Partnership (Coventry University), PSB Academy, Singapore. I have extensive expertise in artificial intelligence and scientific computing. My recent research contributes to the scientific foundations of deep learning, specifically in representation theory, generative learning, and visual inference.</span>
       </td>
    </tr>
