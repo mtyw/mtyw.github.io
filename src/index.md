@@ -1,13 +1,13 @@
 ---
-page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Scientific Computing, Machine Learning, Deep Learning, Computer Vision
+page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Scientific Computing, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Neural Networks, Graph Neural Networks, Convolutional Neural Networks, Wavelets, Data Compression, Signal Processing, Quantization
 ---
 
 <table style="border:0;border-spacing:0;padding:0;">
    <tr style="border:0;border-spacing:0;padding:0;">
-      <td width=160 style="border:0;border-spacing:0;padding:0;">
+      <td width=160 style="vertical-align:top;border:0;border-spacing:0;padding:0;">
          <img src="MT.jpg" alt="Matthew Teow" width="160" height="160">
       </td>
-      <td width=10 style="border:0;border-spacing:0;padding:0;">
+      <td width=15 style="vertical-align:top;border:0;border-spacing:0;padding:0;">
       </td>
       <td width=auto style="vertical-align:top;border:0;border-spacing:0;padding:0">
          <span style="font-size: 18pt;">Matthew Teow</span><br>
