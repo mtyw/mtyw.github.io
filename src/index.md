@@ -25,6 +25,16 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
    <span style="font-size: 12pt;">I am a lecturer at University Partnership (Coventry University), PSB Academy, Singapore. I have extensive expertise in artificial intelligence and scientific computing. My recent research contributes to the scientific foundations of deep learning, specifically in representation theory, generative learning, and visual inference.</span><br></p>
 -->
 
+<span style="font-size: 18pt;">Research Highlights</span><br>
+
+<details>
+<summary>An Improved U-Net For Semantic Segmentation Enhancement</summary>
+<p>
+   <img src="/data/UNET-GIB.jpg" alt="U-NET-GIB" width="850" height=auto>
+   <a href="https://lynerlwl.github.io">Lyner Lim</a>, a PhD student under my co-supervision, has developed an improved U-Net algorithm. The algorithm uses Gaussian filtering as an inductive bias to enhance convolutional feature learning for better semantic segmentation of liquid spray images in domain-specific applications.<br>
+</p>
+</details>
+
 <span style="font-size: 18pt;">Publications</span><br>
 
 <details>
