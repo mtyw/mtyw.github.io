@@ -28,12 +28,10 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <span style="font-size: 18pt;">Research Highlights</span><br>
 
 <details>
-<summary>An Improved U-Net For Semantic Segmentation Enhancement</summary>
+<summary>An Improved U-Net For Semantic Segmentation Of Liquid Spray Images</summary>
 <p>
    <br><img src="UNET-GIB.jpg" alt="U-NET-GIB" width="850" height=auto><br><br>
-   <a href="https://lynerlwl.github.io">Lyner Lim</a>, a PhD student under my co-supervision, has developed an improved U-Net algorithm. The algorithm uses Gaussian filtering as an inductive bias to enhance convolutional feature learning in a U-Net with the objective of performing a better semantic segmentation of liquid spray images in spray applications.<br>
-   The proposed Gaussian inductive bias diffuses sharp edges into a regularised coarse edge structure at the contour boundaries. This maximizes the visibility of the contour boundary in the eyes of the convolution extractor receptive field, allowing the convolutional feature extractor in the U-Net to efficiently differentiate between the geometrical formation of the outward contour boundary and the clustered pixels in the inward contour boundary using a pixel-based transitional derivative dissimilarity measure to confidently segmenting the identified contour into the correct class.<br>
-   The experimental results demonstrate the practical value of the improved U-Net. It has outperformed the basic U-Net in segmenting the key droplets, a crucial requirement in spray applications.
+   <a href="https://lynerlwl.github.io">Lyner Lim</a>, a PhD student under my co-supervision, has developed an improved U-Net algorithm. The algorithm uses Gaussian filtering as an inductive bias to enhance convolutional feature learning in a U-Net with the objective of performing a better semantic segmentation of liquid spray images in spray applications. The proposed Gaussian inductive bias diffuses sharp edges into a regularised coarse edge structure at the contour boundaries. This maximizes the visibility of the contour boundary in the eyes of the convolution extractor receptive field, allowing the convolutional feature extractor in the U-Net to efficiently differentiate between the geometrical formation of the outward contour boundary and the clustered pixels in the inward contour boundary using a pixel-based transitional derivative dissimilarity measure to confidently segmenting the identified contour into the correct class. The experimental results demonstrate the practical value of the improved U-Net. It has outperformed the basic U-Net in segmenting the key droplets, a crucial requirement in spray applications.
    <br><br>
    Related Publications:<br>
    [1] Semantic Liquid Spray Understanding with Computer-Generated Images, IEEE Access (Early Access), 2024.<br>
