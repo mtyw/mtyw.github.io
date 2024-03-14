@@ -28,10 +28,10 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <span style="font-size: 18pt;">Research Highlights</span><br>
 
 <details>
-<summary>An Improved U-Net For Semantic Segmentation Of Liquid Spray Images</summary>
+<summary>An Improved U-Net for Semantic Segmentation of Liquid Spray Images</summary>
 <p>
    <br><img src="UNET-GIB.jpg" alt="U-NET-GIB" width="850" height=auto><br><br>
-   <a href="https://lynerlwl.github.io">Lyner Lim</a>, a PhD student under my co-supervision, has developed an improved U-Net algorithm. The algorithm applies Gaussian filtering on training data as an inductive bias to enhance the receptive sensitivity of convolutional feature learning in a U-Net. The objective is to perform a better semantic segmentation of liquid spray images in spray applications. The proposed Gaussian inductive bias diffuses sharp edges into a regularised coarse edge structure at the contour boundaries. This maximizes the visibility of the contour boundary in the eyes of the receptive field of a convolution extractor. Therefore, it allows the convolutional feature extractor in the U-Net to efficiently differentiate between the geometrical formation of the outward contour boundary and the inward contour boundary through a transitional pixel-level dissimilarity measure to confidently segment the detected contour into the correct class. The experimental results demonstrate the practical value of the improved U-Net. It has outperformed the basic U-Net in segmenting the key droplets, a crucial requirement in spray applications.
+   <a href="https://lynerlwl.github.io">Lyner Lim</a>, a PhD student under my co-supervision, has developed an improved U-Net algorithm. The algorithm applies Gaussian filtering on training data as an inductive bias to enhance the receptive sensitivity of convolutional feature learning in a U-Net. The objective is to perform a better semantic segmentation of liquid spray images in spray applications. The proposed Gaussian inductive bias diffuses sharp edges into a regularised coarse edges at the contour boundaries. This maximizes the visibility of the contour boundary in the eyes of the receptive field of a convolutional feature extractor. Therefore, it allows the convolutional feature extractor in the U-Net to efficiently differentiate between the geometrical formation of the outward contour boundary and the inward contour boundary through a transitional pixel-level dissimilarity measure to confidently segment the detected contour into the correct class. The experimental results demonstrate the practical value of the improved U-Net. It has outperformed the basic U-Net in segmenting the key droplets, a crucial requirement in spray applications.
    <br><br>
    Related Publications:<br>
    [1] Semantic Liquid Spray Understanding with Computer-Generated Images, IEEE Access (Early Access), 2024.<br>
@@ -44,7 +44,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <details>
 <summary>Artificial Intelligence</summary>
 <p>
-   <b>Performance Assessment Of U-Net For Semantic Segmentation Of Liquid Spray Images With Gaussian Blurring.</b><br>
+   <b>Performance Assessment of U-Net for Semantic Segmentation of Liquid Spray Images With Gaussian Blurring.</b><br>
    Wei Lun Lim, Matthew Teow Yok Wooi, Richard Wong Teck Ken, Refat Khan Pathan, Sian Lun Lau, Chiung Ching Ho, Luis Bravo, Rahul Babu Koneru, and Prashant Khare.<br>
    IEEE International Conference on Computing (ICOCO), Malaysia, 2023.<br>
 </p>
@@ -54,7 +54,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
    International Conference on Digital Transformation and Intelligence (ICDI), Malaysia, 2022.<br>
 </p>
 <p>
-   <b>Convolutional Autoencoder For Image Denoising: A Compositional Subspace Representation Perspective.</b><br>
+   <b>Convolutional Autoencoder for Image Denoising: A Compositional Subspace Representation Perspective.</b><br>
    Matthew Teow Yok Wooi.<br>
    IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET), Malaysia, 2021.<br>
 </p>
@@ -64,12 +64,12 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
    International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA), Malaysia, 2021.<br>
 </p>
 <p>
-   <b>Experimenting Deep Convolutional Visual Feature Learning Using Compositional Subspace Representation And Fashion-MNIST.</b><br>
+   <b>Experimenting Deep Convolutional Visual Feature Learning using Compositional Subspace Representation and Fashion-MNIST.</b><br>
    Matthew Teow Yok Wooi.<br>
    IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET), Malaysia, 2020.<br>
 </p>
 <p>
-   <b>Assessing Suitable Word Embedding Model For Malay Language Through Intrinsic Evaluation.</b><br>
+   <b>Assessing Suitable Word Embedding Model for Malay Language Through Intrinsic Evaluation.</b><br>
    Phua Yeong Tsann, Kwang Hooi Yew, Oi Mean Foong, and Matthew Teow Yok Wooi.<br>
    International Conference on Computational Intelligence (ICCI), Malaysia, 2020.<br>
 </p>
@@ -79,17 +79,17 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
    ACM International Conference on Control and Computer Vision, Singapore, 2018.<br>
 </p>
 <p>
-   <b>Understanding Convolutional Neural Networks Using A Minimal Model For Handwritten Digit Recognition.</b><br>
+   <b>Understanding Convolutional Neural Networks using A Minimal Model for Handwritten Digit Recognition.</b><br>
    Matthew Teow Yok Wooi.<br>
    IEEE International Conference on Automatic Control and Intelligent Systems (ICACIS), Malaysia, 2017.<br>
 </p>
 <p>
-   <b>A Minimal Convolutional Neural Network For Handwritten Digit Recognition.</b><br>
+   <b>A Minimal Convolutional Neural Network for Handwritten Digit Recognition.</b><br>
    Matthew Teow Yok Wooi.<br>
    IEEE International Conference on System Engineering and Technology (ICSET), Malaysia, 2017.<br>
 </p>
 <p>
-   <b>Fuzzy Logic Temperature Control Using Intel 80C196 Microcontroller.</b><br>
+   <b>Fuzzy Logic Temperature Control using Intel 80C196 Microcontroller.</b><br>
    Matthew Teow Yok Wooi, Marzuki Khalid, and Rubiyah Yusof.<br>
    COSTAM National Science Congress, Malaysia, 1996.<br>
 </p>
@@ -98,67 +98,67 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <details>
 <summary>Data Compression</summary>
 <p>
-   <b>Performance Analysis Of Wavelet Maxima Mapping Quantisation Of Wavelet Image Lowpass Subband.</b><br>
+   <b>Performance Analysis of Wavelet Maxima Mapping Quantisation of Wavelet Image Lowpass Subband.</b><br>
    Matthew Teow Yok Wooi.<br>
    IEEE International Colloquium on Signal Processing and Its Applications (ICSP), Malaysia, 2013.<br>
 </p>
 <p>
-   <b>Wavelet Maxima Mapping Quantisation Of Image Lowpass Subband And Its Statistical Measurements.</b><br>
+   <b>Wavelet Maxima Mapping Quantisation of Image Lowpass Subband and Its Statistical Measurements.</b><br>
    Matthew Teow Yok Wooi.<br>
    IEEE International Conference on Control System, Computing and Engineering (ICCSCE), Malaysia, 2012.<br>
 </p>
 <p>
-   <b>Wavelet Packet Image Arithmetic Coding Gain Using Sub-Space Energy Feature Re-Mapping.</b><br>
+   <b>Wavelet Packet Image Arithmetic Coding Gain using Sub-Space Energy Feature Re-Mapping.</b><br>
    Matthew Teow Yok Wooi, Lee Sze Wei, and Ian Chai.<br>
    MMU International Symposium on Information and Communication Technologies (M2USIC), Malaysia, 2006.<br>
 </p>
 <p>
-   <b>Texture Images Compression Using Wavelet Zerotree Energy Feature Re-Mapping.</b><br>
+   <b>Texture Images Compression using Wavelet Zerotree Energy Feature Re-Mapping.</b><br>
    Matthew Teow Yok Wooi, Lee Sze Wei, and Ian Chai.<br>
    MMU International Symposium on Information and Communication Technologies (M2USIC), Malaysia, 2004.<br>
 </p>
 <p>
-   <b>Adaptive Wavelet Zero-Tree Coding Using Energy Feature Re-Mapping.</b><br>
+   <b>Adaptive Wavelet Zero-Tree Coding using Energy Feature Re-Mapping.</b><br>
    Matthew Teow Yok Wooi, Lee Sze Wei, and Ian Chai.<br>
    MMU International Symposium on Information and Communication Technologies (M2USIC), Malaysia, 2003.<br>
 </p>
 <p>
-   <b>Image Low-Pass Approximation Sub-Band Quantization With Wavelet Maxima Mapping Quantiser.</b><br>
+   <b>Image Low-Pass Approximation Sub-Band Quantization with Wavelet Maxima Mapping Quantiser.</b><br>
    Matthew Teow Yok Wooi, Lee Sze Wei, and Ian Chai.<br>
    IEE International Conference on Visual Information Engineering (VIE), UK, 2003.<br>
 </p>
 <p>
-   <b>WMMQ For Image Low-Pass Approximation Subband Quantisation</b><br>
+   <b>WMMQ for Image Low-Pass Approximation Subband Quantisation</b><br>
    Matthew Teow Yok Wooi, Lee Sze Wei, and Ian Chai.<br>
    Multimedia University Research Poster Presentation, Malaysia, 2003.<br>
 </p>
 <p>
-   <b>Analysis Of Wavelet Transform On Spatial Domain Finite Length Signals Boundary Extension.</b><br>
+   <b>Analysis of Wavelet Transform on Spatial Domain Finite Length Signals Boundary Extension.</b><br>
    Matthew Teow Yok Wooi and Rodney Tan.<br>
    Advances Technology Congress: Spatial and Computational Engineering (ATC), Malaysia, 2003.<br>
 </p>
 <p>
-   <b>Wavelet Zero-Path Mapping Algorithm For Multimedia Image Coding.</b><br>
+   <b>Wavelet Zero-Path Mapping Algorithm for Multimedia Image Coding.</b><br>
    Matthew Teow Yok Wooi and Rodney Tan.<br>
    IEEE Malaysia National Conference on Telecommunication Technology (NCTT), Malaysia, 2003.<br>
 </p>
 <p>
-   <b>Wavelet Maxima Mapping Quantiser For Image Low- Pass Approximation Sub-Band Coding.</b><br>
+   <b>Wavelet Maxima Mapping Quantiser for Image Low- Pass Approximation Sub-Band Coding.</b><br>
    Matthew Teow Yok Wooi, Lee Sze Wei, and Ian Chai.<br>
    IEE Electronics Letters, UK, 2003.<br>
 </p>
 <p>
-   <b>Entropy Code Pre-Processing Using Wavelet Sub-Space Energy Feature Re-Mapping.</b><br>
+   <b>Entropy Code Pre-Processing using Wavelet Sub-Space Energy Feature Re-Mapping.</b><br>
    Matthew Teow Yok Wooi, Lee Sze Wei, and Ian Chai.<br>
    MMU International Symposium on Information and Communication Technologies (M2USIC), Malaysia, 2002.<br>
 </p>
 <p>
-   <b>Wavelet Transform Modulus Maxima Analysis Of Image Spatial Signal Discontinuities.</b><br>
+   <b>Wavelet Transform Modulus Maxima Analysis of Image Spatial Signal Discontinuities.</b><br>
    Matthew Teow Yok Wooi, Lee Sze Wei, and Ian Chai.<br>
    MMU International Symposium on Information and Communication Technologies (M2USIC), Malaysia, 2001.<br>
 </p>
 <p>
-   <b>Interpretation Of Wavelet Sub-Band Energy Feature Compaction Properties And Its Spatial Information.</b><br>
+   <b>Interpretation of Wavelet Sub-Band Energy Feature Compaction Properties and Its Spatial Information.</b><br>
    Matthew Teow Yok Wooi, Lee Sze Wei, and Ian Chai.<br>
    MMU International Symposium on Information and Communication Technologies (M2USIC), Malaysia, 2000.<br>
 </p>
@@ -167,37 +167,37 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <details>
 <summary>Computational Modeling</summary>
 <p>
-   <b>Modelling Of A Two-Stage Bidirectional AC-DC Converter Using Wavelet Modulation.</b><br>
+   <b>Modelling of A Two-Stage Bidirectional AC-DC Converter using Wavelet Modulation.</b><br>
    Chiu Hsiung Kee, Agileswari Ramasamy, Nadia Tan Mei Ling, and Matthew Teow Yok Wooi.<br>
    International Journal of Power Electronics and Drive Systems (IJPEDS), Indonesia, 2018.<br>
 </p>
 <p>
-   <b>Simulation And Performance Study Of A Horizontal Axis Wind Turbine Mechanical Power.</b><br>
+   <b>Simulation and Performance Study of A Horizontal Axis Wind Turbine Mechanical Power.</b><br>
    Chiu Hsiung Kee, Matthew Teow Yok Wooi, Rodney Tan Hean Gay, Agileswari Ramasamy, and Nadia Tan Mei Ling.<br>
    National Graduate Conference (NATGRAD), Malaysia, 2017.<br>
 </p>
 <p>
-   <b>Simulation, And Performance Study Of A Horizontal Axis Wind Turbine Mechanical Power.</b><br>
+   <b>Simulation and Performance Study of A Horizontal Axis Wind Turbine Mechanical Power.</b><br>
    Chiu Hsiung Kee, Matthew Teow Yok Wooi, Rodney Tan Hean Gay, Agileswari Ramasamy, and Nadia Tan Mei Ling.<br>
    Journal of Energy and Environment, Malaysia, 2017.<br>
 </p>
 <p>
-   <b>A Computational Modelling Of Wind Turbine Mechanical Power And Its Improve Factor Determination.</b><br>
+   <b>A Computational Modelling of Wind Turbine Mechanical Power and Its Improve Factor Determination.</b><br>
    Matthew Teow Yok Wooi, Chiu Hsiung Khee, and Rodney Tan Hean Gay.<br>
    IET International Conference on Clean Energy and Technology (ICCT), Malaysia, 2016.<br>
 </p>
 <p>
-   <b>A Comprehensive Modelling Of Photovoltaic Module Characteristic Curve In MATLAB/Simulink.</b><br>
+   <b>A Comprehensive Modelling of Photovoltaic Module Characteristic Curve in MATLAB/Simulink.</b><br>
    Rodney Tan Heng Gay and Matthew Teow Yok Wooi.<br>
    IET International Conference on Clean Energy and Technology (ICCT), Malaysia, 2016.<br>
 </p>
 <p>
-   <b>Performance Evaluation Of Horizontal Axis Wind Turbine Torque And Mechanical Power Generation Affected By The Number Of Blades</b><br>
+   <b>Performance Evaluation of Horizontal Axis Wind Turbine Torque and Mechanical Power Generation Affected by The Number of Blades</b><br>
    Rodney Tan Heng Gay and Matthew Teow Yok Wooi.<br>
    MATEC Web of Conferences 70, France, 2016.<br>
 </p>
 <p>
-   <b>A Comprehensive Modeling, Simulation And Computational Implementation Of Buck Converter Using MATLAB/Simulink.</b><br>
+   <b>A Comprehensive Modeling, Simulation, and Computational Implementation of Buck Converter using MATLAB/Simulink.</b><br>
    Rodney Tan Heng Gay and Matthew Teow Yok Wooi.<br>
    IEEE Conference on Energy Conversion (CENCON), Malaysia, 2014.<br>
 </p>
@@ -206,10 +206,10 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <details>
 <summary>Education</summary>
 <p>
-   <b>Unplugged Computational Thinking Activities Framework Development For Novice Programmer.</b><br>
+   <b>Unplugged Computational Thinking Activities Framework Development for Novice Programmer.</b><br>
    Sim Tze Ying, Matthew Teow Yok Wooi, and Lau Sian Lun.<br>
    IEEE International Conference on Computing (ICOCO), Malaysia, 2021.<br>
 </p>
 </details>
 
-Email: **matthew.teow:material-at:gmail.com**
+Email: matthew.teow [at] gmail.com / matthew.teow [at] psb-academy.edu.sg
