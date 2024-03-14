@@ -12,11 +12,10 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
       <td width=auto style="vertical-align:top;border:0;border-spacing:0;padding:0">
          <span style="font-size:18pt;">Matthew Teow</span><br>
          <span style="font-size:10pt;">BSc MEng PhD, CEng MIET, PEng MIEM, SMIEEE</span><br>
-         <span style="font-size:12pt;">I am a lecturer at University Partnership (Coventry University), PSB Academy, Singapore. I have extensive expertise in artificial intelligence and scientific computing. My recent research contributes to the scientific foundations of deep learning to enable new capabilities for computer vision.</span>
+         <span style="font-size:12pt;">I am a lecturer at University Partnership (Coventry University), PSB Academy, Singapore. I have extensive expertise in artificial intelligence and scientific computing. My recent research contributes to the scientific foundations of artificial intelligence to enable new computational decision-making capabilities.</span>
       </td>
    </tr>
 </table>
-
 
 <!--
 <p><img src="MT.jpg" alt="Matthew Teow" width="160" height="160"><br>
@@ -41,8 +40,14 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 
 <span style="font-size: 18pt;">Publications</span><br>
 
+
 <details>
 <summary>Artificial Intelligence</summary>
+<p>
+   <b>Semantic Liquid Spray Understanding with Computer-Generated Images.</b><br>
+   Wei Lun Lim, Matthew Teow Yok Wooi, Richard Wong Teck Ken, Refat Khan Pathan, Chiung Ching Ho, Rahul Babu Koneru, Prashant Khare, Luis Bravo, and Sian Lun Lau.<br>
+   IEEE Access (Early Access), US, 2024.<br>
+</p>
 <p>
    <b>Performance Assessment of U-Net for Semantic Segmentation of Liquid Spray Images With Gaussian Blurring.</b><br>
    Wei Lun Lim, Matthew Teow Yok Wooi, Richard Wong Teck Ken, Refat Khan Pathan, Sian Lun Lau, Chiung Ching Ho, Luis Bravo, Rahul Babu Koneru, and Prashant Khare.<br>
@@ -76,7 +81,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <p>
    <b>Convolutional Visual Feature Learning: A Compositional Subspace Representation Perspective.</b><br>
    Matthew Teow Yok Wooi.<br>
-   ACM International Conference on Control and Computer Vision, Singapore, 2018.<br>
+   ACM International Conference on Control and Computer Vision (ICCCV), Singapore, 2018.<br>
 </p>
 <p>
    <b>Understanding Convolutional Neural Networks using A Minimal Model for Handwritten Digit Recognition.</b><br>
