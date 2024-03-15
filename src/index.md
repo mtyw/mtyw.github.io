@@ -39,9 +39,9 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 </details>
 
 <details>
-<summary>Convolutional Autoencoding: A Compositional Subspace Representation Method</summary>
+<summary>Convolutional Autoencoding: A Compositional Subspace Representation Method V2</summary>
 <p>
-   <br><img src="CAE.jpg" alt="CAE" width="600" height=auto><br><br>
+   <br><img src="CAE.jpg" alt="CAE" width="400" height=auto><br><br>
    
    <br><br>
    Related Publications:<br>
