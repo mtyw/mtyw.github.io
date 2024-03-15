@@ -47,8 +47,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
    Related Publications:<br>
    [1] Convolutional Autoencoder for Image Denoising: A Compositional Subspace Representation Perspective, IICAIET, 2021.<br>
    [2] Experimenting Deep Convolutional Visual Feature Learning using Compositional Subspace Representation and Fashion-MNIST, IICAIET, 2020.<br>
-   [3] Convolutional Visual Feature Learning: A Compositional Subspace Representation Perspective.</b><br>
-   Matthew Teow Yok Wooi, ICCV, 2018.<br>
+   [3] Convolutional Visual Feature Learning: A Compositional Subspace Representation Perspective, ICCV, 2018.
 </p>
 </details>
 
