@@ -34,7 +34,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
    <br><br>
    Related Publications:<br>
    [1] Semantic Liquid Spray Understanding with Computer-Generated Images, IEEE Access (Early Access), 2024.<br>
-   [2] Performance Assessment Of U-Net For Semantic Segmentation Of Liquid Spray Images With Gaussian Blurring, ICOCO, 2023.
+   [2] Performance Assessment of U-Net for Semantic Segmentation of Liquid Spray Images with Gaussian Blurring, ICOCO, 2023.
 </p>
 </details>
 
