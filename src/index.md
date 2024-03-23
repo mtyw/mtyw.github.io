@@ -61,7 +61,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <p>
    <b>Semantic Liquid Spray Understanding with Computer-Generated Images.</b><br>
    Wei Lun Lim, Matthew Teow Yok Wooi, Richard Wong Teck Ken, Refat Khan Pathan, Chiung Ching Ho, Rahul Babu Koneru, Prashant Khare, Luis Bravo, and Sian Lun Lau.<br>
-   IEEE Access, US, 2024.<br>
+   IEEE Access, IEEE, 2024.<br>
 </p>
 <p>
    <b>Performance Assessment of U-Net for Semantic Segmentation of Liquid Spray Images With Gaussian Blurring.</b><br>
@@ -165,7 +165,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <p>
    <b>Wavelet Maxima Mapping Quantiser for Image Low- Pass Approximation Sub-Band Coding.</b><br>
    Matthew Teow Yok Wooi, Lee Sze Wei, and Ian Chai.<br>
-   IEE Electronics Letters, UK, 2003.<br>
+   IEE Electronics Letters, IEE, 2003.<br>
 </p>
 <p>
    <b>Entropy Code Pre-Processing using Wavelet Sub-Space Energy Feature Re-Mapping.</b><br>
@@ -189,7 +189,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <p>
    <b>Modelling of A Two-Stage Bidirectional AC-DC Converter using Wavelet Modulation.</b><br>
    Chiu Hsiung Kee, Agileswari Ramasamy, Nadia Tan Mei Ling, and Matthew Teow Yok Wooi.<br>
-   International Journal of Power Electronics and Drive Systems (IJPEDS), Indonesia, 2018.<br>
+   International Journal of Power Electronics and Drive Systems (IJPEDS), IAES, 2018.<br>
 </p>
 <p>
    <b>Simulation and Performance Study of A Horizontal Axis Wind Turbine Mechanical Power.</b><br>
@@ -199,7 +199,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <p>
    <b>Simulation and Performance Study of A Horizontal Axis Wind Turbine Mechanical Power.</b><br>
    Chiu Hsiung Kee, Matthew Teow Yok Wooi, Rodney Tan Hean Gay, Agileswari Ramasamy, and Nadia Tan Mei Ling.<br>
-   Journal of Energy and Environment, Malaysia, 2017.<br>
+   Journal of Energy and Environment, UNITEN, 2017.<br>
 </p>
 <p>
    <b>A Computational Modelling of Wind Turbine Mechanical Power and Its Improve Factor Determination.</b><br>
@@ -214,7 +214,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <p>
    <b>Performance Evaluation of Horizontal Axis Wind Turbine Torque and Mechanical Power Generation Affected by The Number of Blades</b><br>
    Rodney Tan Heng Gay and Matthew Teow Yok Wooi.<br>
-   MATEC Web of Conferences 70, France, 2016.<br>
+   MATEC Web of Conferences 70, EDP Sciences, 2016.<br>
 </p>
 <p>
    <b>A Comprehensive Modeling, Simulation, and Computational Implementation of Buck Converter using MATLAB/Simulink.</b><br>
