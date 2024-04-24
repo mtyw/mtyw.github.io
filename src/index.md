@@ -19,7 +19,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <span style="font-size: 18pt;">Research Highlights</span><br>
 
 <details>
-<summary>An Improved U-Net for Semantic Segmentation of Liquid Spray Images</summary>
+<summary>Semantic Segmentation of Liquid Spray Images</summary>
 <p>
    <br><img src="UNET-GIB.jpg" alt="U-NET-GIB" width="860" height=auto><br><br>
    <a href="https://lynerlwl.github.io">Lyner Lim</a>, a PhD student under my co-supervision, has developed an improved U-Net algorithm. The algorithm applies Gaussian filtering on training data as an inductive bias to enhance the receptive sensitivity of convolutional feature learning in a U-Net. The objective is to perform a better semantic segmentation of liquid spray images in spray applications. The proposed Gaussian induction diffuses sharp edges into a regularised coarse edges at the contour boundaries. This maximizes the visibility of the contour boundary in the eyes of the receptive field of a convolutional feature extractor. Therefore, it allows the convolutional feature extractor in the U-Net to efficiently differentiate between the geometrical formation of the outward contour boundary and the inward contour boundary through a transitional pixel-level dissimilarity measure to confidently segment the detected contour into the correct class. The experimental results demonstrate the improved U-Net has outperformed the basic U-Net in segmenting the key droplets, an important requirement in spray applications.
