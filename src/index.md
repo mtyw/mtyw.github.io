@@ -38,10 +38,11 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
    I was recently introduced to category theory and have embarked on a journey to learn it. It is motivating to know how this community sweats its effort to build a mathematical bridge between categories and artificial intelligence. I am slowly taking steps to learn more about categories and how they can conceptualize convolutional learning systems. I believe that category theory would enable me to create profound mathematical abstractions for the convolutional learning system that potentially incorporates the fundamentals of cognition for front-end vision. Then, I could (try to) utilize this knowledge to augment machine-level perceptions with new explainabilities and capabilities. The end-point outcomes of this research are still too early to judge, but I am excited about a promising and fulfilling journey waiting for me.
    <br><br>
    Related Publications:<br>
-   [1] Convolutional Autoencoder for Image Denoising: A Compositional Subspace Representation Perspective, IICAIET, IEEE, 2021.<br>
-   [2] Experimenting Deep Convolutional Visual Feature Learning using Compositional Subspace Representation and Fashion-MNIST, IICAIET, IEEE, 2020.<br>
-   [3] Convolutional Visual Feature Learning: A Compositional Subspace Representation Perspective, ICCV, ACM, 2018.<br>
-   [4] Understanding Convolutional Neural Networks using A Minimal Model for Handwritten Digit Recognition, ICACIS, IEEE, 2017.
+   [1] Abstracting Convolutional Autoencoders using A Compositional Subspace Representation Method for Autoassociative Mapping, ISCI, IEEE, 2024.<br>
+   [2] Convolutional Autoencoder for Image Denoising: A Compositional Subspace Representation Perspective, IICAIET, IEEE, 2021.<br>
+   [3] Experimenting Deep Convolutional Visual Feature Learning using Compositional Subspace Representation and Fashion-MNIST, IICAIET, IEEE, 2020.<br>
+   [4] Convolutional Visual Feature Learning: A Compositional Subspace Representation Perspective, ICCV, ACM, 2018.<br>
+   [5] Understanding Convolutional Neural Networks using A Minimal Model for Handwritten Digit Recognition, ICACIS, IEEE, 2017.
 </p>
 </details>
 
@@ -50,6 +51,11 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 
 <details>
 <summary>Artificial Intelligence</summary>
+<p>
+   <b>Abstracting Convolutional Autoencoders using A Compositional Subspace Representation Method for Autoassociative Mapping</b><br>
+   Matthew Teow Yok Wooi and Lim Chong Lye.<br>, 
+   IEEE Symposium on Computers and Informatics (ISCI), Malaysia, 2024.<br>
+</p>
 <p>
    <b>Semantic Liquid Spray Understanding with Computer-Generated Images.</b><br>
    Wei Lun Lim, Matthew Teow Yok Wooi, Richard Wong Teck Ken, Refat Khan Pathan, Chiung Ching Ho, Rahul Babu Koneru, Prashant Khare, Luis Bravo, and Sian Lun Lau.<br>
