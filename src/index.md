@@ -53,7 +53,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <summary>Artificial Intelligence</summary>
 <p>
    <b>Abstracting Convolutional Autoencoders using A Compositional Subspace Representation Method for Autoassociative Mapping</b><br>
-   Matthew Teow Yok Wooi and Lim Chong Lye.<br>, 
+   Matthew Teow Yok Wooi and Lim Chong Lye.<br> 
    IEEE Symposium on Computers and Informatics (ISCI), Malaysia, 2024.<br>
 </p>
 <p>
