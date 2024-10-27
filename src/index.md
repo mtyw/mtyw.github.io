@@ -12,14 +12,13 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
       <td width=auto style="vertical-align:top;border:0;border-spacing:0;padding:0">
          <span style="font-size:18pt;">Matthew Teow</span><br>
          <span style="font-size:10pt;">BSc MEng PhD, CEng MIET, PEng MIEM, SMIEEE</span><br>
-         <span style="font-size:12pt;">I am a lecturer at University Partnership (Coventry University), PSB Academy, Singapore with extensive interests in artificial intelligence and scientific computing.
-   </tr>
+         <span style="font-size:12pt;">I am a lecturer at the University Partnership (Coventry University), PSB Academy, Singapore, with interests in artificial intelligence and scientific computing    </tr>
 </table>
 
 <span style="font-size: 18pt;">Research</span><br>
 
 <details>
-<summary>Convolutional Learning: A Compositional Subspace Abstraction</summary>
+<summary>Convolutional Learning, Inference, and Abstraction.</summary>
 <p>
    <br><img src="CAE.jpg" alt="CAE" width="400" height=auto><br><br>
    I started this project with the inspiration of my previous research in wavelet theory, specifically using discrete convolution to analyze visual information in dyadic wavelet structures for data compression. Then, I moved my research focus to convolutional neural networks for computer vision. When exploring convolutional neural networks and their visual feature learning capability, I thought of conceptualizing them with high-level mathematical abstraction. Perhaps, with a bit of learning from the fundamentals of cognition to guide the abstraction. I began working on subspace representation and functional composition to extend my understanding of convolutional visual learning in high-dimensional data analysis and low-dimensional data synthesis. That work progressed me from discriminative learning to generative autoencoding for visual feature extraction, modeling, and inference.<br><br>
