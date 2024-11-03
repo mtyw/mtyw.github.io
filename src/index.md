@@ -15,6 +15,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
          <span style="font-size:12pt;">I am a lecturer at the University Partnership (Coventry University), PSB Academy, Singapore, with interests in artificial intelligence and scientific computing    </tr>
 </table>
 
+<!--
 <span style="font-size: 18pt;">Research</span><br>
 
 <details>
@@ -31,6 +32,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
    [5] Understanding Convolutional Neural Networks using A Minimal Model for Handwritten Digit Recognition, ICACIS, IEEE, 2017.
 </p>
 </details>
+-->
 
 <span style="font-size: 18pt;">Publications</span><br>
 
