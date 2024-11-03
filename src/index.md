@@ -18,10 +18,10 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <span style="font-size: 18pt;">Research</span><br>
 
 <details>
-<summary>Convolutional Learning and Autoencoding</summary>
+<summary>Deep Learning Algorithms</summary>
 <p>
    <br><img src="CAE.jpg" alt="CAE" width="400" height=auto><br><br>
-   My research focuses on the scientific abstraction and computational design of convolutional learning and autoencoding, interlaced with computation and cognitive fundamentals, using deep neural networks for algorithmic perception and decision-making.
+   My research focuses on the study and design of deep learning algorithms for perception and decision-making.
    <br><br>
    Related Publications:<br>
    [1] Abstracting Convolutional Autoencoders using A Compositional Subspace Representation Method for Autoassociative Mapping, ISCI, IEEE, 2024.<br>
