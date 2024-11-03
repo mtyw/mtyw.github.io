@@ -18,11 +18,10 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <span style="font-size: 18pt;">Research</span><br>
 
 <details>
-<summary>Convolutional Learning, Inference, and Abstraction.</summary>
+<summary>Convolutional Learning and Autoencoding</summary>
 <p>
    <br><img src="CAE.jpg" alt="CAE" width="400" height=auto><br><br>
-   I started this project with the inspiration of my previous research in wavelet theory, specifically using discrete convolution to analyze visual information in dyadic wavelet structures for data compression. Then, I moved my research focus to convolutional neural networks for computer vision. When exploring convolutional neural networks and their visual feature learning capability, I thought of conceptualizing them with high-level mathematical abstraction. Perhaps, with a bit of learning from the fundamentals of cognition to guide the abstraction. I began working on subspace representation and functional composition to extend my understanding of convolutional visual learning in high-dimensional data analysis and low-dimensional data synthesis. That work progressed me from discriminative learning to generative autoencoding for visual feature extraction, modeling, and inference.<br><br>
-   I was recently introduced to category theory and have started to learn how it can abstract convolutional learning systems. I believe that category theory would enable me to create profound mathematical abstractions for the convolutional learning system that potentially incorporates the fundamentals of cognition for front-end vision. Then, I could (try to) utilize this knowledge to augment machine-level perceptions with new explanations and capabilities. The end-point outcomes of this research are still too early to judge, but I am excited about the promising and fulfilling journey that awaits me.
+   My research contributes to the scientific abstraction and computational design of convolutional learning and autoencoding using deep neural networks for algorithmic perception and decision-making.
    <br><br>
    Related Publications:<br>
    [1] Abstracting Convolutional Autoencoders using A Compositional Subspace Representation Method for Autoassociative Mapping, ISCI, IEEE, 2024.<br>
