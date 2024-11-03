@@ -21,7 +21,7 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <summary>Deep Learning Algorithms</summary>
 <p>
    <br><img src="CAE.jpg" alt="CAE" width="400" height=auto><br><br>
-   My research focuses on the study and design of deep learning algorithms for perception and decision-making.
+   My research focuses on the study and design of deep learning algorithms for perception, reasoning, and decision-making.
    <br><br>
    Related Publications:<br>
    [1] Abstracting Convolutional Autoencoders using A Compositional Subspace Representation Method for Autoassociative Mapping, ISCI, IEEE, 2024.<br>
