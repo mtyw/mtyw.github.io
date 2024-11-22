@@ -40,12 +40,12 @@ page.keywords: Matthew Teow, Matthew Teow Yok Wooi, Artificial Intelligence, Sci
 <details>
 <summary>Artificial Intelligence</summary>
 <p>
-   <b>Malay phoneme-based subword news headline generator for low-resource language</b><br>
+   <b>Malay Phoneme-Based Subword News Headline Generator for Low-Resource Language.</b><br>
    Yeong Tsann Phua, Kwang Hooi Yew, Mohd Fadzil Hassan, Matthew Teow Yok Wooi.<br> 
    IAES International Journal of Artificial Intelligence (IJ-AI), IAES, 2024.<br>
 </p>
 <p>
-   <b>Abstracting Convolutional Autoencoders using A Compositional Subspace Representation Method for Autoassociative Mapping</b><br>
+   <b>Abstracting Convolutional Autoencoders using A Compositional Subspace Representation Method for Autoassociative Mapping.</b><br>
    Matthew Teow Yok Wooi and Lim Chong Lye.<br> 
    IEEE Symposium on Computers and Informatics (ISCI), Malaysia, 2024.<br>
 </p>
